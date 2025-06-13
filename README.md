@@ -73,7 +73,7 @@ Scripts are organized by language and, where appropriate, by domain or purpose.
 
 ## 🤝 Contribution (Future)
 
-Currently, this repository is for my personal use. However, if you find a bug, have a suggestion for improvement, or would like to discuss a script, please feel free to [open an issue](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/awesome-dev-scripts/issues).
+Currently, this repository is for my personal use. However, if you find a bug, have a suggestion for improvement, or would like to discuss a script, please feel free to open an issue.
 
 -----
 
